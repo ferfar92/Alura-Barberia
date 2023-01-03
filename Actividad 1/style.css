@@ -1,0 +1,49 @@
+.titulo-principal{
+    padding-left: 30px;
+    
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+/* Para dar estilo a un selector ID se empieza con # */
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+/* Uso de las clases, s ehace referencia con . */
+.items{
+    font-style: italic;
+}
+
+ul{
+    /* solo el espacio de su contenido y sus espaciamientos se puedan ajustar */
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgDiferenciales{
+    width: 50%;
+}
